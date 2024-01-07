@@ -95,7 +95,7 @@ const JobList = () => {
       desc: [
         "Write software unit tests in C/C++ to enable the audio team to verify software production code.",
         "Set up Docker environments for different architecture targets.",
-        "Created a software applications in C/C++ to enable the audio team to evaluate audio algorithm libraries offline"
+        "Created a software applications in C/C++ to enable the audio team to evaluate audio algorithm libraries offline."
       ]
     },
     "Northrop Grumman": {
@@ -103,7 +103,7 @@ const JobList = () => {
       duration: "JAN 2023 - MAY 2024",
       desc: [
         "The training program included weekly meetings with a software engineering mentor, software and computer science exercises and weekly deliverables pushed to GitHub.",
-        "Topics covered included bits and bytes, classes, objects, and types, code organization, refactoring and test-driven development using Catch-2 and Pytest, threads, processes, concurrency, and containers"
+        "Topics covered included bits and bytes, classes, objects, and types, code organization, refactoring and test-driven development using Catch-2 and Pytest, threads, processes, concurrency, and containers."
       ]
     },
     iCode: {
