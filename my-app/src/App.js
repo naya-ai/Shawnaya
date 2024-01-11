@@ -1,9 +1,10 @@
 import React from "react";
-import Intro from "./components/Intro.js";
-import Experience from "./components/Experience.js";
-import About from "./components/About.js";
-import Credits from "./components/Credits.js";
-import NavBar from "./components/NavBar.js";
+import Intro from "./components/Intro";
+import Experience from "./components/Experience";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Credits from "./components/Credits";
+import NavBar from "./components/NavBar";
 import "./App.css";
 import "./styles/Global.css";
 import "rsuite/dist/styles/rsuite-default.css";
@@ -16,10 +17,11 @@ function App() {
         <Intro></Intro>
         <About></About>
         <Experience></Experience>
+        <Projects></Projects>
         <Credits></Credits>
       </div>
     </div>
   );
 }
 
-export default App;
+export default App
